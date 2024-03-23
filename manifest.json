@@ -1,0 +1,9 @@
+{
+    "name": "Base Extension",
+    "version": "1.0",
+    "description": "This is a test extension made for github",
+    "entrypoint": "main.js",
+    "matches": [
+        "http(s)?://example.com/*"
+    ]
+}
